@@ -1,2 +1,4 @@
+PHOTOLINK
 # LiFi-Technology
 Li-Fi Data Transmission: Built a system that transfers data using LED light and a photodetector, demonstrating wireless communication through visible light with fast and secure data transmission.
+Li-Fi Data Transmission System: Designed and developed a Li-Fi (Light Fidelity) based wireless communication system to transmit data using visible light instead of traditional radio frequency signals. The project uses an LED as the transmitter to encode digital information into rapid light pulses, which are received by a photodetector and converted back into the original data. This demonstrates a secure, energy-efficient, and high-speed method of wireless communication. The project provided hands-on experience with electronics, signal transmission, embedded systems, and communication principles while showcasing the potential of Li-Fi technology for future wireless networks.
